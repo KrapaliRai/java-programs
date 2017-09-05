@@ -8,5 +8,6 @@ public class Hello {
         int myTotal = myFirstNumber + mySecondNumber + myThirdNumber;
         int finalnumber = 1000 - myTotal;
         System.out.println(finalnumber);
+	System.out.println("This program ends now");
     }
 }
